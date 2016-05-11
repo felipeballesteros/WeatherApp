@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# WeatherApp
 
 Based on Stephen Grider's initial setup:
 https://github.com/StephenGrider/ReduxSimpleStarter.git
